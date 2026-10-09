@@ -1,1 +1,2 @@
-*.sqlite*
+# Keep database.sqlite tracked for serverless deployment
+!.gitignore
